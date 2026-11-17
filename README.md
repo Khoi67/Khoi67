@@ -1,35 +1,36 @@
-## Hi, I'm Khoi67 👋
+<div align="center">
 
-I’m a developer who enjoys building useful tools, learning new technologies, and turning ideas into working software.
+# Khoi Do
 
-- 🔭 I’m currently exploring software engineering, automation, and product-minded development
-- 🌱 I’m learning more about cloud, backend systems, and clean architecture
-- 👯 I’m open to collaborating on interesting projects and side ideas
-- 💬 Ask me about software development, problem solving, or building projects from scratch
-- 📫 Reach me: https://github.com/Khoi67
-- ⚡ Fun fact: I enjoy learning by building things that solve real problems
+**Software Tester · Quality Advocate · Curious Gamer**
 
-### Tech Stack
+I help make software more reliable by looking closely, asking good questions, and testing beyond the happy path.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[GitHub](https://github.com/Khoi67)
 
-### GitHub Stats
+</div>
 
-[![Khoi67's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khoi67&show_icons=true&theme=tokyonight)](https://github.com/Khoi67)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khoi67&layout=compact&theme=tokyonight)](https://github.com/Khoi67)
+### About me
 
-### Featured Projects
+- 🧪 I’m a tester who cares about thoughtful, dependable user experiences.
+- 🔍 I enjoy exploring edge cases, investigating bugs, and making quality part of the process.
+- 🎮 Outside of testing, I’m into games, technology, and learning how things work.
+- 🌱 Always building my skills and finding better ways to test.
 
-- Building practical apps and tools that improve developer workflows
-- Exploring automation and backend systems
-- Contributing to open source and learning from other developers
+### What I bring
 
-### Profile Snapshot
+`Exploratory testing` · `Bug reporting` · `Attention to detail` · `Quality mindset`
 
-> Curious, hands-on, and always learning. I like turning ideas into polished, useful software.
+### Currently
+
+Looking for opportunities to grow as a tester and contribute to products people enjoy using.
+
+---
+
+<div align="center">
+
+*Curious by nature. Detail-oriented by habit. Player at heart.*
+
+</div>
